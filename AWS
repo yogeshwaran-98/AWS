@@ -15,5 +15,7 @@ S3
 Route-53
 IAM
 SNS , SQS
-Lambda Function
+Lambda Function 
+
+and more aws services
 
